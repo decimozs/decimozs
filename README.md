@@ -1,5 +1,5 @@
-<h1 align="center">Marlon Martin</h1>
-<p align="center">✨ Aspiring Software Engineer ✨</p>
+
+<h1 align="center">✨ Aspiring Software Engineer ✨</h1>
 
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=DecimoDevs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
