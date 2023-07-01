@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   </div>
   <div align="center">
-   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decimozs&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=html,css,scss,pug,makefile,json,jsx,javascript&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_progress=true" />
+   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decimozs&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=html,css,scss,pug,makefile,json,jsx&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_progress=true" />
 
     
   </div>
